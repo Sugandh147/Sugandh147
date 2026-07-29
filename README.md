@@ -56,7 +56,7 @@ const sugandh = {
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
+
 <tr>
 <td valign="top" width="50%">
 
@@ -81,7 +81,6 @@ const sugandh = {
 
 </td>
 </tr>
-</table>
 
 **Dev Tools & Workflow**
 
