@@ -19,11 +19,29 @@
 <img src="https://komarev.com/ghpvc/?username=Sugandh147&label=Profile%20Views&color=5EA8F5&style=for-the-badge" alt="" />
 <img src="https://img.shields.io/github/followers/Sugandh147?label=Followers&style=for-the-badge&color=7C6CF0" alt="" />
 
+<br><br>
+
+<img src="https://img.shields.io/badge/🟢_OPEN_TO-Internships-2ECC71?style=for-the-badge&labelColor=0A0E27" alt="" />
+<img src="https://img.shields.io/badge/🟢_OPEN_TO-SDE_%2F_AI--ML_Roles-2ECC71?style=for-the-badge&labelColor=0A0E27" alt="" />
+<img src="https://img.shields.io/badge/📍_Remote_%7C_Onsite-Open-5EA8F5?style=for-the-badge&labelColor=0A0E27" alt="" />
+
 </div>
 
 <br>
 
 ## 🚀 About Me
+
+```javascript
+const sugandh = {
+  role: "Aspiring SDE / AI-ML Engineer",
+  education: "B.Tech CSE (AI/ML), MIET Meerut — 2024 to 2028",
+  stack: ["Python", "React", "FastAPI", "PostgreSQL", "PyTorch"],
+  currentlyBuilding: "Voicey — a full-stack AI Voice SaaS",
+  currentlySharpening: ["DSA", "Deep Learning", "System Design"],
+  funFact: "Pair-programs with Claude Code almost every day",
+  status: "🟢 Open to internships & full-time roles",
+};
+```
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="" />
 
