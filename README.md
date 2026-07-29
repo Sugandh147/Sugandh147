@@ -148,14 +148,7 @@ Currently building and experimenting with new AI-powered tools — check my GitH
 <tr>
 <td valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sugandh147&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=5EA8F5&icon_color=4FD6D0&text_color=B9C2E0&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180"/>
 
-</td>
-<td valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sugandh147&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=5EA8F5&text_color=B9C2E0&cache_seconds=1800" alt="Top Languages" height="180"/>
-
-</td>
 </tr>
 </table>
 </div>
