@@ -75,14 +75,6 @@ An air-gapped, predictive AI copilot for MPLS network operations, built for the 
 
 **📈 MOM / AI Marketing OS** — Built with [@ritikteotia](https://github.com/ritikteotia)
 
----
-
-### 🏆 Hackathons & Achievements
-
-- 🥇 **Trikon 3.0** — Winner (₹11,000 prize)
-- 🥇 **GDG Hackheist** — Winner
-- 🔟 **Bharat Siksha Expo** — Top 10
-- 🛰️ Currently competing in **Bharatiya Antariksh Hackathon 2026**
 
 ---
 
