@@ -1,29 +1,3 @@
-### 📌 Profile
-
-- 🎓 **Education:** B.Tech CSE (AI/ML) — MIET Meerut, 2024–2028
-- 🎯 **Looking for:** SDE / AI-ML roles & internships
-- 🏆 **Track Record:** 1x Hackathon Winner
-- 🛠️ **Focus:** AI/ML, backend engineering, and full-stack development
-- 🔄 Actively improving & maintaining my repositories — contributors welcome 
-
-### 👤 About Me
-
-- 🔭 Currently building **VOICEY**, **BRAVISI**, and other personal/hackathon projects
-- 🌱 Deepening my skills in **AI/ML, backend systems, and full-stack dev**
-- 🤝 Open to collaborating on **interesting, non-trivial projects**
-- 📫 Reach out below — I reply fast
-- 🌱 Deepening my skills in Development, Machine Learning, and AI-driven systems
-
-</td>
-<td width="42%" valign="top" align="center">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="100%" alt="coding" />
-
-</td>
-</tr>
-</table>
-
----
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=560&lines=AI%2FML+Engineer;Full-Stack+Developer;Building+in+the+shadows...;Shipping+in+the+light." alt="Typing SVG" />
@@ -48,6 +22,30 @@
 <table>
 <tr>
 <td width="58%" valign="top">
+
+### 📌 Profile
+
+- 🎓 **Education:** B.Tech CSE (AI/ML) — MIET Meerut, 2024–2028
+- 🎯 **Looking for:** SDE / AI-ML roles & internships
+- 🏆 **Track Record:** 1x Hackathon Winner
+- 🛠️ **Focus:** AI/ML, backend engineering, and full-stack development
+
+### 👤 About Me
+
+- 🔭 Currently building **VOICEY**, **BRAVISI**, and other personal/hackathon projects
+- 🌱 Deepening my skills in **AI/ML, backend systems, and full-stack dev**
+- 🤝 Open to collaborating on **interesting, non-trivial projects**
+- 📫 Reach out below — I reply fast
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="100%" alt="coding" />
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🧠 Tech Stack
@@ -73,6 +71,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" /> <img src="https://img.shields.io/badge/CodeRabbit-FF570A?style=for-the-badge&logo=coderabbit&logoColor=white" />
 
 ---
+
+
 
 ## 🗂 Featured Projects
 
@@ -118,8 +118,8 @@ There's always one more repo than the README shows.
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugandh147&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
 </div>
+
 ---
 
 <div align="center">
