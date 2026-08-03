@@ -1,8 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=150&text=SUGANDH%20MAHAJAN&fontColor=FFFFFF&fontSize=36&fontAlign=50&fontAlignY=38&desc=SDE%20%2F%20AI-ML%20Engineer%20%E2%80%94%20MIET%20Meerut&descAlign=50&descAlignY=62&descSize=15&descColor=8892B0&animation=fadeIn" alt="banner"/>
+
 <div align="center">
 
 <sub><i>"There are two ways to write error-free programs; only the third one works."</i> — <b>Alan J. Perlis</b></sub>
-
-<sub>B.Tech CSE (AI/ML) @ MIET Meerut &nbsp;·&nbsp; hunting my first SDE / AI-ML role</sub>
 
 <br><br>
 
@@ -114,7 +114,6 @@ There's always one more repo than the README shows.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugandh147&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-
 </div>
 
 ---
@@ -127,3 +126,7 @@ There's always one more repo than the README shows.
 <a href="mailto:mahajansugandh3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,50:302B63,100:0F0C29&height=90&text=Thanks%20for%20stopping%20by&fontColor=8892B0&fontSize=15&fontAlign=50&fontAlignY=55&animation=fadeIn" alt="footer"/>
