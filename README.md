@@ -29,6 +29,7 @@
 - 🎯 **Looking for:** SDE / AI-ML roles & internships
 - 🏆 **Track Record:** 1x Hackathon Winner
 - 🛠️ **Focus:** AI/ML, backend engineering, and full-stack development
+- 🔄 Actively improving & maintaining my repositories — contributors welcome 
 
 ### 👤 About Me
 
