@@ -1,10 +1,8 @@
 <div align="center">
 
-# ✨ who goes there? ✨
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6A11CB,50:2575FC,100:00c6ff&height=170&section=header&text=WHO%20GOES%20THERE%3F&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=building%20in%20the%20shadows,%20shipping%20in%20the%20light&descAlignY=62&descSize=17&descAlign=50" alt="banner" />
 
-*"There are two ways to write error-free programs; only the third one works." — Alan J. Perlis"*
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=%3E+access+granted...;%3E+building+in+the+shadows;%3E+compiling+ambition.exe;%3E+status%3A+ONLINE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=%3E+access+granted...;%3E+compiling+ambition.exe;%3E+status%3A+ONLINE" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Sugandh147&label=intrusions+detected&color=2575FC&style=for-the-badge" alt="profile views" />
 
@@ -23,7 +21,7 @@
 - 🏆 **Track Record:** 1x Hackathon Winner
 - 💬 **Known For:** shipping things before explaining them
 
-### 👤 About Me
+### 👤 About Me(h)
 
 - 🔭 Currently building **personal and hackathon projects**
 - 🌱 Deepening my skills in **AI/ML, backend engineering, and full-stack dev**
@@ -157,11 +155,13 @@ There's always one more repo than the README shows.
 
 <div align="center">
 
-```yaml
-> transmission_channels:
-    linkedin: linkedin.com/in/sugandh-mahajan
-    mail:     mahajansugandh3@gmail.com
-> end_of_file()
-```
+### 📡 Let's Connect
+
+<a href="https://linkedin.com/in/sugandh-mahajan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mahajansugandh3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00c6ff,50:2575FC,100:6A11CB&height=100&section=footer" alt="footer" />
 
 </div>
