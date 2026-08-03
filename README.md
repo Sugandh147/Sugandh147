@@ -72,12 +72,6 @@
 
 ---
 
-## 🌱 Currently Learning
-
-<img src="https://img.shields.io/badge/Advanced%20DSA-FF6B6B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/LLM%20Fine--Tuning-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/System%20Design-4B8BBE?style=for-the-badge" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-
----
-
 ## 🗂 Featured Projects
 
 <table>
