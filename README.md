@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6A11CB,50:2575FC,100:00c6ff&height=170&section=header&text=WHO%20GOES%20THERE%3F&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=building%20in%20the%20shadows,%20shipping%20in%20the%20light&descAlignY=62&descSize=17&descAlign=50" alt="banner" />
+> *"There are two ways to write error-free programs; only the third one works."*
+> **— Alan J. Perlis**
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=%3E+access+granted...;%3E+compiling+ambition.exe;%3E+status%3A+ONLINE" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Sugandh147&label=intrusions+detected&color=2575FC&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Sugandh147&label=profile+views&color=2575FC&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" alt="open to work" />
 
 </div>
 
@@ -17,17 +21,16 @@
 ### 📌 Profile
 
 - 🎓 **Education:** B.Tech CSE (AI/ML) — MIET Meerut, 2024–2028
-- 🎯 **Current Op:** hunting my first SDE / AI-ML role
+- 🎯 **Looking for:** SDE / AI-ML roles & internships
 - 🏆 **Track Record:** 1x Hackathon Winner
-- 💬 **Known For:** shipping things before explaining them
+- 🛠️ **Focus:** AI/ML, backend engineering, and full-stack development
 
-### 👤 About Me(h)
+### 👤 About Me
 
-- 🔭 Currently building **personal and hackathon projects**
-- 🌱 Deepening my skills in **AI/ML, backend engineering, and full-stack dev**
+- 🔭 Currently building **VOICEY**, **BRAVISI**, and other personal/hackathon projects
+- 🌱 Deepening my skills in **AI/ML, backend systems, and full-stack dev**
 - 🤝 Open to collaborating on **interesting, non-trivial projects**
-- 💬 Ask me anything — I might even answer
-- ⚡ *"I don't sleep, I just context-switch."*
+- 📫 Reach out below — I reply fast
 
 </td>
 <td width="42%" valign="top" align="center">
@@ -40,97 +43,77 @@
 
 ---
 
-## 🧠 Tech OverStack
-
-<table width="100%">
-<tr>
-<td valign="top" width="20%">
+## 🧠 Tech Stack
 
 **🚀 Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" /><br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
-</td>
-<td valign="top" width="20%">
+**🧩 Frameworks & Libraries**
 
-**🧩 Frameworks**
-
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-
-</td>
-<td valign="top" width="20%">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 
 **🗄️ Databases**
 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/SQLite-074E5E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 
-</td>
-<td valign="top" width="20%">
+**🤖 AI / ML**
 
-**🧠 AI / ML**
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Model_Training-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+**🧰 Tools & Platforms**
 
-</td>
-<td valign="top" width="20%">
-
-**🧰 Tools**
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/CodeRabbit-FF570A?style=for-the-badge&logo=coderabbit&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeRabbit-FF570A?style=flat-square&logo=coderabbit&logoColor=white" />
 
 ---
 
-## 🗂 Declassified Files
+## 🗂 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🎙️ VOICEY**
-`[ FLAGSHIP ]`
+**🎙️ VOICEY** `FLAGSHIP`
 Full-stack AI Voice SaaS. Built it, broke it, rebuilt it.
+<br/><sub>React · FastAPI · PostgreSQL</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**🛒 RECOMMENDATION ENGINE**
-`[ ACTIVE ]`
+**🛒 RECOMMENDATION ENGINE** `ACTIVE`
 ML-based e-commerce product recommendation system.
+<br/><sub>Python · PyTorch · scikit-learn</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**📊 BRAVISI**
-`[ IN PROGRESS ]`
+**📊 BRAVISI** `IN PROGRESS`
 AI Visibility & Brand Intelligence Platform.
+<br/><sub>React · FastAPI · SQL</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**🔒 CLASSIFIED**
-`[ ??? ]`
+**🔒 + more**
 There's always one more repo than the README shows.
+<br/><sub><a href="https://github.com/Sugandh147?tab=repositories">Browse all repos ↗</a></sub>
 
 </td>
 </tr>
@@ -159,9 +142,5 @@ There's always one more repo than the README shows.
 
 <a href="https://linkedin.com/in/sugandh-mahajan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mahajansugandh3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00c6ff,50:2575FC,100:6A11CB&height=100&section=footer" alt="footer" />
 
 </div>
