@@ -1,13 +1,3 @@
-<div align="center">
-
-<img src="https://img.shields.io/badge/-🚀%20Building%20in%20the%20shadows%2C%20shipping%20in%20the%20light-2575FC?style=for-the-badge" alt="banner" height="45"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI%2FML-6A11CB?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-2575FC?style=flat-square" /> <img src="https://img.shields.io/badge/Hackathon%20Winner-00c6ff?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" />
-
-<br><br>
-
 <h3><i>"There are two ways to write error-free programs; only the third one works."</i></h3>
 <b>— Alan J. Perlis</b>
 
