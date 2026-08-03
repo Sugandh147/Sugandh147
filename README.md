@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/🚀_BUILDING_IN_THE_SHADOWS,_SHIPPING_IN_THE_LIGHT-141321?style=for-the-badge&labelColor=141321&color=2575FC" alt="banner" height="45"/>
+<img src="https://img.shields.io/badge/-🚀%20Building%20in%20the%20shadows%2C%20shipping%20in%20the%20light-2575FC?style=for-the-badge" alt="banner" height="45"/>
 
 <br><br>
 
@@ -120,6 +120,7 @@ There's always one more repo than the README shows.
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugandh147&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
 
 </div>
 
