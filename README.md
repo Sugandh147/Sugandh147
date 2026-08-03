@@ -1,6 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,40:302B63,70:6A11CB,100:2575FC&height=190&text=SUGANDH%20MAHAJAN&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=36&desc=SDE%20%2F%20AI-ML%20Engineer%20%E2%80%94%20MIET%20Meerut&descAlign=50&descAlignY=60&descSize=16&descColor=C9D1FF&animation=fadeIn" alt="banner"/>
-
 <div align="center">
+
+<img src="https://img.shields.io/badge/🚀_BUILDING_IN_THE_SHADOWS,_SHIPPING_IN_THE_LIGHT-141321?style=for-the-badge&labelColor=141321&color=2575FC" alt="banner" height="45"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/AI%2FML-6A11CB?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-2575FC?style=flat-square" /> <img src="https://img.shields.io/badge/Hackathon%20Winner-00c6ff?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" />
 
@@ -74,6 +76,12 @@
 
 ---
 
+## 🌱 Currently Learning
+
+<img src="https://img.shields.io/badge/Advanced%20DSA-FF6B6B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/LLM%20Fine--Tuning-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/System%20Design-4B8BBE?style=for-the-badge" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+---
+
 ## 🗂 Featured Projects
 
 <table>
@@ -117,8 +125,12 @@ There's always one more repo than the README shows.
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Sugandh147&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugandh147&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sugandh147&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sugandh147&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="97%"/>
 
 </div>
 
@@ -135,4 +147,10 @@ There's always one more repo than the README shows.
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,50:302B63,100:0F0C29&height=90&text=Thanks%20for%20stopping%20by&fontColor=8892B0&fontSize=15&fontAlign=50&fontAlignY=55&animation=fadeIn" alt="footer"/>
+<div align="center">
+
+💡 *"Code with curiosity. Learn continuously. Build solutions that matter."*
+
+⭐ If you like my work, consider starring my repositories!
+
+</div>
