@@ -1,12 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=%3C%20WHO%20GOES%20THERE%20%3F%20%2F%3E&fontSize=38&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=you%20weren't%20supposed%20to%20find%20this%20page&descAlignY=58&descSize=16&descColor=8A8A8A" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00c6ff&height=220&section=header&text=%3C%20WHO%20GOES%20THERE%20%3F%20%2F%3E&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=you%20weren't%20supposed%20to%20find%20this%20page&descAlignY=58&descSize=16&descColor=e0e0e0" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=%3E+access+granted...;%3E+building+in+the+shadows;%3E+compiling+ambition.exe;%3E+status%3A+ONLINE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=%3E+access+granted...;%3E+building+in+the+shadows;%3E+compiling+ambition.exe;%3E+status%3A+ONLINE" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Sugandh147&label=intrusions+detected&color=0D1117&style=for-the-badge&labelColor=00FF9C" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Sugandh147&label=intrusions+detected&color=2575FC&style=for-the-badge" alt="profile views" />
 
 </div>
+
+> *"Code never lies, comments sometimes do."* — every dev, eventually
 
 <br>
 
@@ -24,6 +26,7 @@
 
 *A CS student who prefers building over talking.*
 *Some projects are public. Most of the process isn't.*
+*Keep scrolling — it gets weirder.*
 
 <br clear="right"/>
 
@@ -31,30 +34,45 @@
 
 <div align="center">
 
+### 🃏 mandatory dev humor
+
+```
+me: it works on my machine
+production server: allow me to introduce myself
+```
+
+<sub>*(every developer's origin story, colorized for dramatic effect)*</sub>
+
+</div>
+
+---
+
+<div align="center">
+
 ### ⚙ ARSENAL
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Model_Training-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Model_Training-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Claude_Code-0D1117?style=for-the-badge&logo=claude&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Sentry-0D1117?style=for-the-badge&logo=sentry&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/CodeRabbit-0D1117?style=for-the-badge&logo=coderabbit&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeRabbit-FF570A?style=for-the-badge&logo=coderabbit&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
@@ -97,16 +115,24 @@ AI Visibility & Brand Intelligence Platform.
 </tr>
 </table>
 
+<details>
+<summary>🔒 <b>click to decrypt one more file</b></summary>
+<br>
+
+There's always one more repo than the README shows. This one's still compiling.
+
+</details>
+
 ---
 
 <div align="center">
 
 ### 📡 activity log
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sugandh147&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugandh147&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sugandh147&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugandh147&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sugandh147&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff" alt="Contribution Graph" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sugandh147&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="97%"/>
 
 </div>
 
@@ -121,6 +147,6 @@ AI Visibility & Brand Intelligence Platform.
 > end_of_file()
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2575FC,100:6A11CB&height=120&section=footer" />
 
 </div>
