@@ -1,5 +1,7 @@
+<div centre>
 <h3><i>"There are two ways to write error-free programs; only the third one works."</i></h3>
 <b>— Alan J. Perlis</b>
+</div>
 
 <br>
 
