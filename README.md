@@ -1,16 +1,21 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=150&text=SUGANDH%20MAHAJAN&fontColor=FFFFFF&fontSize=36&fontAlign=50&fontAlignY=38&desc=SDE%20%2F%20AI-ML%20Engineer%20%E2%80%94%20MIET%20Meerut&descAlign=50&descAlignY=62&descSize=15&descColor=8892B0&animation=fadeIn" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,40:302B63,70:6A11CB,100:2575FC&height=190&text=SUGANDH%20MAHAJAN&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=36&desc=SDE%20%2F%20AI-ML%20Engineer%20%E2%80%94%20MIET%20Meerut&descAlign=50&descAlignY=60&descSize=16&descColor=C9D1FF&animation=fadeIn" alt="banner"/>
 
 <div align="center">
 
-<sub><i>"There are two ways to write error-free programs; only the third one works."</i> — <b>Alan J. Perlis</b></sub>
+<img src="https://img.shields.io/badge/AI%2FML-6A11CB?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-2575FC?style=flat-square" /> <img src="https://img.shields.io/badge/Hackathon%20Winner-00c6ff?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" />
 
 <br><br>
+
+<h3><i>"There are two ways to write error-free programs; only the third one works."</i></h3>
+<b>— Alan J. Perlis</b>
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=480&lines=%3E+access+granted...;%3E+compiling+ambition.exe;%3E+status%3A+ONLINE" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Sugandh147&label=profile+views&color=2575FC&style=for-the-badge" alt="profile views" /> <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" alt="open to work" />
+<img src="https://komarev.com/ghpvc/?username=Sugandh147&label=profile+views&color=2575FC&style=for-the-badge" alt="profile views" />
 
 </div>
 
@@ -113,6 +118,7 @@ There's always one more repo than the README shows.
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugandh147&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
 
 </div>
 
