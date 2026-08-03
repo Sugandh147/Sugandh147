@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="380" alt="she codes" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="380" alt="girl coding" />
 
 # ✨ who goes there? ✨
 
@@ -35,40 +35,21 @@
 
 ## 🧠 Tech OverStack
 
-### 🚀 Languages
+<div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=py,java,js,html,css&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=react,fastapi,flask,prisma&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,scikitlearn&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=vscode,git,githubactions&theme=dark" />
 
-### 🧩 Frameworks & Libraries
+</div>
 
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<div align="center">
 
-### 🗄️ Databases
+<sub>Languages · Frameworks & Libraries · Databases · AI/ML · Tools</sub>
 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-074E5E?style=for-the-badge&logo=sqlite&logoColor=white" />
-
-### 🧠 AI / ML
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Model_Training-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-### 🧰 Tools & Others
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-<img src="https://img.shields.io/badge/CodeRabbit-FF570A?style=for-the-badge&logo=coderabbit&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 ---
 
@@ -121,16 +102,6 @@ There's always one more repo than the README shows.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sugandh147&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sugandh147&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="97%"/>
-
-</div>
-
----
-
-## 💬 Random Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="random dev quote" />
 
 </div>
 
