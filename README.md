@@ -6,11 +6,7 @@
 
 *"I run parallel to the predictable world — the mystery is that I never converge."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00c6ff&height=200&section=header&text=&fontColor=ffffff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=%3E+access+granted...;%3E+building+in+the+shadows;%3E+compiling+ambition.exe;%3E+status%3A+ONLINE" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=Sugandh147&label=intrusions+detected&color=2575FC&style=for-the-badge" alt="profile views" />
 
 </div>
 
