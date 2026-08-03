@@ -23,7 +23,7 @@
 - 🏆 **Track Record:** 1x Hackathon Winner
 - 💬 **Known For:** shipping things before explaining them
 
-### 👤 About Me(h)
+### 👤 About Me
 
 - 🔭 Currently building **personal and hackathon projects**
 - 🌱 Deepening my skills in **AI/ML, backend engineering, and full-stack dev**
