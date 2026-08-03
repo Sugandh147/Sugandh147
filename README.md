@@ -15,11 +15,9 @@
 </div>
 
 <br>
-
 <table>
 <tr>
 <td width="58%" valign="top">
-
 ### 📌 Profile
 
 - 🎓 **Education:** B.Tech CSE (AI/ML) — MIET Meerut, 2024–2028
