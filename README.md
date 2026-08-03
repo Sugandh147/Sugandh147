@@ -1,13 +1,17 @@
-<div centre>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=560&lines=AI%2FML+Engineer;Full-Stack+Developer;Building+in+the+shadows...;Shipping+in+the+light." alt="Typing SVG" />
+
+<br>
+
 <h3><i>"There are two ways to write error-free programs; only the third one works."</i></h3>
 <b>— Alan J. Perlis</b>
-</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=480&lines=%3E+access+granted...;%3E+compiling+ambition.exe;%3E+status%3A+ONLINE" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/AI%2FML-6A11CB?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-2575FC?style=flat-square" /> <img src="https://img.shields.io/badge/Hackathon%20Winner-00c6ff?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" />
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Sugandh147&label=profile+views&color=2575FC&style=for-the-badge" alt="profile views" />
 
@@ -68,6 +72,12 @@
 
 ---
 
+## 🌱 Currently Learning
+
+<img src="https://img.shields.io/badge/Advanced%20DSA-FF6B6B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/LLM%20Fine--Tuning-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/System%20Design-4B8BBE?style=for-the-badge" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+---
+
 ## 🗂 Featured Projects
 
 <table>
@@ -113,9 +123,7 @@ There's always one more repo than the README shows.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugandh147&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-
 </div>
-
 ---
 
 <div align="center">
