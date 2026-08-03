@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=560&lines=AI%2FML+Engineer;Full-Stack+Developer;Building+in+the+shadows...;Shipping+in+the+light." alt="Typing SVG" />
-
 <br>
 
 <h3><i>"There are two ways to write error-free programs; only the third one works."</i></h3>
