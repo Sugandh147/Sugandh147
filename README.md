@@ -1,184 +1,134 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner.svg" alt="Sugandh Mahajan — AI/ML & Full-Stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=230&section=header&text=%3C%20FRAGGY%20%2F%3E&fontSize=55&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=who%20goes%20there%3F&descAlignY=58&descSize=18&descColor=8A8A8A" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=%3E+whoami;%3E+building+in+the+shadows...;%3E+compiling+ambition.exe;%3E+status%3A+ONLINE" alt="Typing SVG" />
 
 <br>
 
-<a href="https://www.linkedin.com/in/sugandh-mahajan-a0a321322"><img src="https://img.shields.io/badge/LinkedIn-5EA8F5?style=for-the-badge&logo=linkedin&logoColor=0A0E27" alt="LinkedIn" /></a>&nbsp;<a href="mailto:mahajansugandh3@gmail.com"><img src="https://img.shields.io/badge/Email-4FD6D0?style=for-the-badge&logo=gmail&logoColor=0A0E27" alt="Email" /></a>&nbsp;<a href="https://github.com/Sugandh147"><img src="https://img.shields.io/badge/GitHub-7C6CF0?style=for-the-badge&logo=github&logoColor=0A0E27" alt="GitHub" /></a>
-
-<br><br>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=5EA8F5&center=true&vCenter=true&width=680&lines=B.Tech+CSE+(AI%2FML)+%40+MIET+Meerut;Building+with+Python%2C+React+%26+FastAPI;Training+ML%2FDL+models+with+PyTorch;Shipping+full-stack+AI+SaaS+products;Hunting+for+my+first+SDE%2FAI-ML+role" alt="Typing SVG" />
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Sugandh147&label=Profile%20Views&color=5EA8F5&style=for-the-badge" alt="Profile Views" />&nbsp;<img src="https://img.shields.io/github/followers/Sugandh147?label=Followers&style=for-the-badge&color=7C6CF0" alt="Followers" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🟢_OPEN_TO-Internships-2ECC71?style=for-the-badge&labelColor=0A0E27" alt="Open to internships" />&nbsp;<img src="https://img.shields.io/badge/🟢_OPEN_TO-SDE_%2F_AI--ML_Roles-2ECC71?style=for-the-badge&labelColor=0A0E27" alt="Open to SDE / AI-ML roles" />&nbsp;<img src="https://img.shields.io/badge/📍_Remote_%7C_Onsite-Open-5EA8F5?style=for-the-badge&labelColor=0A0E27" alt="Remote or onsite" />
+<img src="https://komarev.com/ghpvc/?username=Sugandh147&label=intrusions%20detected&color=000000&style=for-the-badge&labelColor=00FF9C" alt="profile views" />
 
 </div>
 
 <br>
 
-## 🚀 About Me
-
-```javascript
-const sugandh = {
-  role: "Aspiring SDE / AI-ML Engineer",
-  education: "B.Tech CSE (AI/ML), MIET Meerut — 2024 to 2028",
-  stack: ["Python", "React", "FastAPI", "PostgreSQL", "PyTorch"],
-  currentlyBuilding: "Voicey — a full-stack AI Voice SaaS",
-  currentlySharpening: ["DSA", "Deep Learning", "System Design"],
-  funFact: "Pair-programs with Claude Code almost every day",
-  status: "🟢 Open to internships & full-time roles",
-};
+```yaml
+> access_level: [ RESTRICTED ]
+> codename:     Fraggy
+> class:        B.Tech CSE (AI/ML) — MIET Meerut, 2024 – 2028
+> current_op:   hunting my first SDE / AI-ML role
+> arsenal:      Python · SQL · full-stack sorcery
+> track_record: 1x hackathon WINNER · 1x TOP 10 finish
+> known_for:    shipping things before explaining them
+> fun_fact:     "I don't sleep, I just context-switch."
 ```
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation" />
+<div align="center">
 
-- 🎓 B.Tech CSE (AI/ML) student at **MIET Meerut** (2024 – 2028), currently in my third year
-- 💻 Building full-stack products with **Python, React.js, FastAPI & PostgreSQL**
-- 🤖 Deep diving into **Machine Learning, Model Training & Deep Learning** with PyTorch
-- 🧠 Sharpening my **DSA** and problem-solving skills daily
-- 🛠️ Shipping AI-powered SaaS projects end-to-end — from model to production
-- 🎯 Working toward landing my first full-time **SDE / AI-ML Engineering role**
-- 🏆 Hackathon winner, always looking for the next one
-- ⚡ Fun fact: I pair-program with **Claude Code** almost every day
-- 📫 Reach me at **mahajansugandh3@gmail.com**
+### 👁️ signal intercepted
 
-<br clear="right"/>
+*A B.Tech CSE (AI/ML) student who prefers building over talking.*
+*Some projects are public. Most of the process isn't.*
+*If you're reading this, you already found more than most.*
 
+</div>
+
+---
+
+<div align="center">
+
+### ⚙ ARSENAL
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF9C" />
 <br>
-
-## 🛠️ Tech Stack
-
-
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28" alt="Java" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="SQL" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS3" />
-
-**Databases**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="MySQL" />
-
-</td>
-<td valign="top" width="50%">
-
-**Frameworks & Libraries**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="28" alt="React" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="FastAPI" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="28" alt="Flask" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28" alt="PyTorch" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="28" alt="Prisma" />
-
-**AI / ML Tooling**
-
-<img src="https://img.shields.io/badge/Model%20Training-7C6CF0?style=for-the-badge&logo=pytorch&logoColor=white" height="28" alt="Model Training" /> <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="28" alt="Jupyter Notebook" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28" alt="scikit-learn" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" alt="Pandas" /> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="28" alt="Claude Code" />
-
-</td>
-</tr>
-
-**Dev Tools & Workflow**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="28" alt="VS Code" /> <img src="https://img.shields.io/badge/CodeRabbit-6E56CF?style=for-the-badge&logo=github&logoColor=white" height="28" alt="CodeRabbit" /> <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" height="28" alt="Sentry" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" alt="Docker" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Vercel" />
-
+<img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=00FF9C" />
 <br>
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Model_Training-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00FF9C" />
+<br>
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=claude&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Sentry-000000?style=for-the-badge&logo=sentry&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/CodeRabbit-000000?style=for-the-badge&logo=coderabbit&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF9C" />
 
-## 🌟 Featured Projects
+</div>
+
+---
+
+### 🗂 declassified files
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ [Voicey](https://github.com/Sugandh147)
-**Full-stack AI Voice SaaS** — my flagship project and a core piece of my resume. Built with a modern full-stack architecture combining a Python/FastAPI backend with a React frontend and PostgreSQL + Prisma for data.
-
-`Python` `FastAPI` `React` `PostgreSQL` `Prisma`
+**🎙️ VOICEY**
+`[ FLAGSHIP ]`
+Full-stack AI Voice SaaS. Built it, broke it, rebuilt it. Core of everything I show recruiters.
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce Recommendation System
-**ML-based recommendation engine** that suggests products using trained models on user behavior and purchase data.
-
-`Python` `scikit-learn` `Pandas` `SQL`
+**🛒 RECOMMENDATION ENGINE**
+`[ ACTIVE ]`
+ML-based e-commerce product recommendation system.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 BRAVISI
-**AI Visibility & Brand Intelligence Platform** — tracks and analyzes brand presence and visibility using AI-driven insights.
-
-`Python` `AI/ML` `Full-Stack`
+**📊 BRAVISI**
+`[ IN PROGRESS ]`
+AI Visibility & Brand Intelligence Platform.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 More on the way
-Currently building and experimenting with new AI-powered tools — check my GitHub for the latest.
-
-`Building in public`
+**🏆 THE WINS**
+`[ LOGGED ]`
+1x Hackathon Winner · 1x Top 10 Finish
 
 </td>
 </tr>
 </table>
 
-<br>
-
-## 🏆 Achievements
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🥇_HACKATHON-WINNER-FFD700?style=for-the-badge&labelColor=0A0E27" alt="Hackathon winner" /> <img src="https://img.shields.io/badge/🔟_COMPETITION-TOP_10_FINISH-C0C0C0?style=for-the-badge&labelColor=0A0E27" alt="Top 10 finish" />
+### 📡 activity log
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sugandh147&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugandh147&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sugandh147&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff" alt="Contribution Graph" width="97%"/>
 
 </div>
 
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<table>
-<tr>
-<td valign="top">
-
-
-</tr>
-</table>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sugandh147&theme=tokyo-night&bg_color=0A0E27&color=5EA8F5&line=4FD6D0&point=7C6CF0&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
-
-<p align="center"><sub><i>Stats are generated live by open-source community widgets. If a card looks blank on GitHub itself, it usually clears up on a refresh within a minute — GitHub caches the image once it loads successfully.</i></sub></p>
-
-<br>
-
-## 📈 Currently Learning & Exploring
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Advanced%20DSA-in%20progress-6A11CB?style=for-the-badge" alt="Advanced DSA" /> <img src="https://img.shields.io/badge/Deep%20Learning-in%20progress-2575FC?style=for-the-badge" alt="Deep Learning" /> <img src="https://img.shields.io/badge/System%20Design-exploring-6A11CB?style=for-the-badge" alt="System Design" />
+```yaml
+> transmission_channels:
+    linkedin: linkedin.com/in/sugandh-mahajan
+    mail:     mahajansugandh3@gmail.com
+> end_of_file()
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer" />
+
+*you weren't supposed to scroll this far.*
 
 </div>
-
-<br>
-
-## 🤝 Connect with me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sugandh-mahajan-a0a321322"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:mahajansugandh3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/Sugandh147"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</div>
-
-<p align="center"><i>⭐️ Currently sharpening DSA, training ML models, shipping full-stack AI projects, and hunting for my first SDE/AI-ML role.</i></p>
-
-<img width="100%" src="./assets/footer.svg" alt="" />
