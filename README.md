@@ -8,9 +8,7 @@
 <b>— Alan J. Perlis</b>
 
 <br>
-
 <img src="https://img.shields.io/badge/AI%2FML-6A11CB?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-2575FC?style=flat-square" /> <img src="https://img.shields.io/badge/Hackathon%20Winner-00c6ff?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" />
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Sugandh147&label=profile+views&color=2575FC&style=for-the-badge" alt="profile views" />
