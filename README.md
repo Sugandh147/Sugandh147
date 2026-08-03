@@ -31,6 +31,7 @@
 - 🌱 Deepening my skills in **AI/ML, backend systems, and full-stack dev**
 - 🤝 Open to collaborating on **interesting, non-trivial projects**
 - 📫 Reach out below — I reply fast
+- 🌱 Deepening my skills in Development, Machine Learning, and AI-driven systems
 
 </td>
 <td width="42%" valign="top" align="center">
