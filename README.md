@@ -90,7 +90,7 @@
 
   h1.title{
     font-family:'Space Grotesk', sans-serif; font-weight:700;
-    font-size:clamp(2.4rem, 8.5vw, 6rem); line-height:0.98; letter-spacing:-0.02em;
+    font-size:clamp(2rem, 6.5vw, 4.4rem); line-height:1.05; letter-spacing:-0.02em;
     background:linear-gradient(120deg, #fff 0%, #cfd0ff 40%, var(--cyan) 100%);
     -webkit-background-clip:text; background-clip:text; color:transparent;
     opacity:0; min-height:1.1em;
@@ -101,6 +101,21 @@
     color:var(--muted); margin-top:26px; max-width:560px; margin-left:auto; margin-right:auto;
     opacity:0; font-style:italic;
   }
+
+  .quote-author{
+    font-family:'JetBrains Mono', monospace; font-size:11px; color:var(--muted);
+    letter-spacing:0.1em; margin-top:8px; opacity:0;
+  }
+  .badge-row{ display:flex; gap:10px; justify-content:center; flex-wrap:wrap; margin-top:28px; opacity:0; }
+  .badge-pill{
+    font-family:'JetBrains Mono', monospace; font-size:11px; letter-spacing:0.05em;
+    padding:7px 16px; border-radius:100px; border:1px solid var(--line); color:var(--text);
+    background:rgba(255,255,255,0.02);
+  }
+  .badge-pill.p1{ border-color:rgba(106,17,203,0.5); color:#b48cf0; }
+  .badge-pill.p2{ border-color:rgba(37,117,252,0.5); color:#79aeff; }
+  .badge-pill.p3{ border-color:rgba(0,198,255,0.5); color:var(--cyan); }
+  .badge-pill.p4{ border-color:rgba(70,220,130,0.5); color:#5fe3a1; }
 
   .scroll-cue{
     position:absolute; bottom:46px; left:50%; transform:translateX(-50%); z-index:4;
@@ -121,8 +136,13 @@
   }
   .reveal{ opacity:0; transform:translateY(36px); }
 
-  .about-grid{ display:grid; grid-template-columns: 1.1fr 0.9fr; gap:60px; align-items:center; }
-  @media(max-width:800px){ .about-grid{ grid-template-columns:1fr; } }
+  .about-grid{ display:grid; grid-template-columns: 1fr 0.85fr 0.75fr; gap:40px; align-items:center; }
+  @media(max-width:1000px){ .about-grid{ grid-template-columns:1fr; } }
+  .about-gif{ border-radius:14px; overflow:hidden; border:1px solid var(--line); }
+  .about-gif img{ width:100%; display:block; }
+  .about-copy ul{ list-style:none; margin-top:10px; }
+  .about-copy li{ color:var(--muted); font-weight:300; line-height:1.9; font-size:0.98rem; }
+  .about-copy li strong{ color:var(--text); font-weight:500; }
   .terminal{
     font-family:'JetBrains Mono', monospace; font-size:14px; line-height:2.1;
     background:var(--bg-soft); border:1px solid var(--line); border-radius:10px; padding:28px 30px;
@@ -164,6 +184,7 @@
   .file-tag{ font-family:'JetBrains Mono', monospace; font-size:10.5px; letter-spacing:0.15em; color:var(--cyan); border:1px solid rgba(0,198,255,0.3); padding:4px 10px; border-radius:100px; display:inline-block; margin-bottom:16px; }
   .file-card h4{ font-family:'Space Grotesk', sans-serif; font-size:1.25rem; margin-bottom:10px; }
   .file-card p{ color:var(--muted); font-size:0.92rem; font-weight:300; line-height:1.7; }
+  .file-card .file-sub{ font-family:'JetBrains Mono', monospace; font-size:11px; color:#5a5b70; margin-top:10px; }
 
   .channels{ text-align:center; }
   .mask-icon{ width:70px; margin:0 auto 24px; opacity:0.8; }
@@ -196,7 +217,10 @@
 
 <nav>
   <span><span class="dot">●</span> SYSTEM ONLINE</span>
-  <span id="clock">--:--:--</span>
+  <span style="display:flex; align-items:center; gap:16px;">
+    <img src="https://komarev.com/ghpvc/?username=Sugandh147&label=views&color=2575FC&style=flat-square" alt="profile views" style="height:20px; vertical-align:middle;" />
+    <span id="clock">--:--:--</span>
+  </span>
 </nav>
 
 <section class="hero">
@@ -228,7 +252,14 @@
   <div class="hero-inner">
     <div class="eyebrow" id="eyebrow">> initializing identity<span class="cursor-blink"></span></div>
     <h1 class="title" id="heroTitle"></h1>
-    <p class="subtitle" id="heroSub">"I run parallel to the predictable world — the mystery is that I never converge."</p>
+    <p class="subtitle" id="heroSub">"There are two ways to write error-free programs; only the third one works."</p>
+    <p class="quote-author" id="heroAuthor">— Alan J. Perlis</p>
+    <div class="badge-row" id="badgeRow">
+      <span class="badge-pill p1">AI/ML</span>
+      <span class="badge-pill p2">Full-Stack</span>
+      <span class="badge-pill p3">Hackathon Winner</span>
+      <span class="badge-pill p4">Open to Work</span>
+    </div>
   </div>
   <div class="scroll-cue"><span>SCROLL</span><span class="bar"></span></div>
 </section>
@@ -252,8 +283,15 @@
         <rect x="24" y="38" width="8" height="55" fill="#00c6ff"/>
         <rect x="88" y="38" width="8" height="55" fill="#00c6ff"/>
       </svg>
-      <p>A CS student who prefers <strong>building over talking</strong>. Currently deep in AI/ML, backend engineering, and full-stack development — most of it undocumented until it works.</p>
-      <p>Open to <strong>interesting, non-trivial projects</strong>. Some things here are public. Most of the process isn't.</p>
+      <ul>
+        <li>🔭 Currently building <strong>Voicey</strong>, <strong>BRAVISI</strong>, and other hackathon/personal projects</li>
+        <li>🌱 Deepening skills in <strong>AI/ML, backend systems, and full-stack dev</strong></li>
+        <li>🤝 Open to collaborating on <strong>interesting, non-trivial projects</strong></li>
+        <li>📫 Reach out below — I reply fast</li>
+      </ul>
+    </div>
+    <div class="about-gif reveal">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" alt="coding" />
     </div>
   </div>
 </section>
@@ -298,10 +336,20 @@
   <div class="label">03 // archive</div>
   <h2 class="h-title reveal" data-scramble>declassified files</h2>
   <div class="files-grid">
-    <div class="file-card reveal tilt"><span class="file-tag">FLAGSHIP</span><h4>Voicey</h4><p>Full-stack AI Voice SaaS. Built it, broke it, rebuilt it.</p></div>
-    <div class="file-card reveal tilt"><span class="file-tag">ACTIVE</span><h4>Recommendation Engine</h4><p>ML-based e-commerce product recommendation system.</p></div>
-    <div class="file-card reveal tilt"><span class="file-tag">IN PROGRESS</span><h4>BRAVISI</h4><p>AI Visibility &amp; Brand Intelligence Platform.</p></div>
-    <div class="file-card reveal tilt"><span class="file-tag">???</span><h4>Classified</h4><p>There's always one more repo than the page shows.</p></div>
+    <div class="file-card reveal tilt"><span class="file-tag">FLAGSHIP</span><h4>Voicey</h4><p>Full-stack AI Voice SaaS. Built it, broke it, rebuilt it.</p><p class="file-sub">React · FastAPI · PostgreSQL</p></div>
+    <div class="file-card reveal tilt"><span class="file-tag">ACTIVE</span><h4>Recommendation Engine</h4><p>ML-based e-commerce product recommendation system.</p><p class="file-sub">Python · PyTorch · scikit-learn</p></div>
+    <div class="file-card reveal tilt"><span class="file-tag">IN PROGRESS</span><h4>BRAVISI</h4><p>AI Visibility &amp; Brand Intelligence Platform.</p><p class="file-sub">React · FastAPI · SQL</p></div>
+    <div class="file-card reveal tilt"><span class="file-tag">???</span><h4>+ more</h4><p>There's always one more repo than the page shows.</p><p class="file-sub"><a href="https://github.com/Sugandh147?tab=repositories" target="_blank" style="color:var(--cyan); text-decoration:none;">Browse all repos ↗</a></p></div>
+  </div>
+</section>
+
+<section id="stats">
+  <div class="label" style="justify-content:center;">04 // metrics</div>
+  <h2 class="h-title reveal" data-scramble style="text-align:center;">activity log</h2>
+  <div class="reveal" style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sugandh147&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a14&count_private=true" alt="GitHub Stats" height="165" style="border-radius:10px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugandh147&theme=tokyonight&hide_border=true&background=0a0a14" alt="GitHub Streak" height="165" style="border-radius:10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sugandh147&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a14" alt="Top Languages" height="165" style="border-radius:10px;"/>
   </div>
 </section>
 
@@ -312,7 +360,7 @@
     <ellipse cx="68" cy="52" rx="8" ry="5" fill="#00c6ff" opacity="0.85"/>
     <path d="M30 74 Q50 88 70 74" stroke="#2575FC" stroke-width="1.5" fill="none"/>
   </svg>
-  <div class="label" style="justify-content:center;">04 // transmit</div>
+  <div class="label" style="justify-content:center;">05 // transmit</div>
   <h2 class="h-title reveal" data-scramble>open a channel</h2>
   <div class="channel-links reveal">
     <a class="channel-btn" href="https://linkedin.com/in/sugandh-mahajan" target="_blank">LINKEDIN &nbsp;↗</a>
@@ -320,7 +368,11 @@
   </div>
 </section>
 
-<footer>transmission ends here — for now.</footer>
+<footer>
+  💡 code with curiosity. learn continuously. build solutions that matter.<br><br>
+  ⭐ if you like this, it means someone finally scrolled all the way down.<br><br>
+  transmission ends here — for now.
+</footer>
 
 <script>
 window.addEventListener('load', ()=>{
@@ -447,9 +499,18 @@ function startHero(){
   const tl = gsap.timeline({ delay:0.2 });
   tl.to('#eyebrow', { opacity:1, duration:0.6, ease:'power2.out' })
     .to('#heroTitle', { opacity:1, duration:0.4 }, '+=0.1')
-    .call(()=>{ scrambleInto(document.getElementById('heroTitle'), 'WHO GOES THERE?', 1100); })
-    .to('#heroSub', { opacity:1, duration:1, ease:'power2.out' }, '+=0.9')
+    .call(()=>{ scrambleInto(document.getElementById('heroTitle'), 'AI/ML Engineer', 900); })
+    .to('#heroSub', { opacity:1, duration:1, ease:'power2.out' }, '+=0.7')
+    .to('#heroAuthor', { opacity:1, duration:0.8, ease:'power2.out' }, '-=0.5')
+    .to('#badgeRow', { opacity:1, duration:0.8, ease:'power2.out' }, '-=0.3')
     .to('.scroll-cue', { opacity:1, duration:0.8 }, '-=0.4');
+
+  const heroPhrases = ['AI/ML Engineer','Full-Stack Developer','Building in the shadows...','Shipping in the light.'];
+  let phraseIdx = 0;
+  setInterval(()=>{
+    phraseIdx = (phraseIdx+1) % heroPhrases.length;
+    scrambleInto(document.getElementById('heroTitle'), heroPhrases[phraseIdx], 900);
+  }, 3400);
 
   document.querySelectorAll('.reveal').forEach((el)=>{
     gsap.to(el, { opacity:1, y:0, duration:0.9, ease:'power2.out',
